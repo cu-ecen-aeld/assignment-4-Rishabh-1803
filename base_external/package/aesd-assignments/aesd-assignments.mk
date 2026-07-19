@@ -5,7 +5,7 @@
 ################################################################################
 
 AESD_ASSIGNMENTS_VERSION = 411dbba335df40021e58cb4030ac149520ffe12d
-AESD_ASSIGNMENTS_SITE = https://github.com/cu-ecen-aeld/assignments-3-and-later-Rishabh-1803.git
+AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-Rishabh-1803.git
 AESD_ASSIGNMENTS_SITE_METHOD = git
 
 define AESD_ASSIGNMENTS_BUILD_CMDS
